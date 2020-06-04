@@ -1,2 +1,2 @@
 # javascriptClosestStringMatch
-How to find the closest match to a javascript string against another array of strings
+How to use a function to find the closest match to a string within an array of strings.
